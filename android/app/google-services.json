@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "824239995409",
+    "project_id": "todo-list-16709",
+    "storage_bucket": "todo-list-16709.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824239995409:android:b8044f5fabf3afe67e8fb0",
+        "android_client_info": {
+          "package_name": "com.anggitajati.todo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "824239995409-117ugbcpmn9230dtai148l81go0rr2ik.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.anggitajati.todo",
+            "certificate_hash": "460d70b72fdd20399752df7de56acd93e86c6447"
+          }
+        },
+        {
+          "client_id": "824239995409-frr9mckeocngkvnj0cb8b1j0vdfbccor.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.anggitajati.todo",
+            "certificate_hash": "d8a7a2e3cc4a969cc3e73944d9cf9b8385e716ed"
+          }
+        },
+        {
+          "client_id": "824239995409-o6s9s0doqq8vjtevis6maigjv7o8mlh4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsGTT_Ujwr-QymeG-FZyxay_TluACFRZ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "824239995409-o6s9s0doqq8vjtevis6maigjv7o8mlh4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
